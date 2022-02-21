@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_docusaurus=self.webpackChunktest_docusaurus||[]).push([[53],{1109:function(e){e.exports=JSON.parse('{"pluginId":"default","version":"current","label":"Next","banner":"none","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Just a stub","href":"/KnowledgeBase/ru/docs/intro"}]}}')}}]);
